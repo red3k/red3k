@@ -11,13 +11,19 @@ I’m currently gaining informal exposure to research through regular participat
 - Chemistry data science
 - Wet-lab methods and interdisciplinary research
 
-## Selected project
+## Selected research
 
-### *Brugia malayi* aminoacyl-tRNA synthetase screening
+### Proteome-wide reverse docking for *Brugia malayi*
 
-An in-silico screening project with a human LeuRS comparison. The public snapshot includes docking results across five random seeds, a preliminary consensus ranking, and docking settings. The findings are computational predictions and have not been experimentally validated.
+An independent computational study screened compound 6a against a curated set of *B. malayi* protein structures and prioritized mitochondrial ATP synthase subunit β as a candidate target. It includes a human ortholog comparison. These are computational predictions that require experimental validation.
 
-[View the project showcase](https://github.com/red3k/brugia-malayi-leurs-screening-showcase)
+[Read the preprint](https://doi.org/10.21203/rs.3.rs-10383379/v1)
+
+### Aminoacyl-tRNA synthetase screening
+
+A separate in-silico screening project focused on *B. malayi* aminoacyl-tRNA synthetases, including a human LeuRS comparison. The public snapshot includes docking results across five random seeds, a preliminary consensus ranking, and docking settings. Findings are computational and have not been experimentally validated.
+
+[View the LeuRS project showcase](https://github.com/red3k/brugia-malayi-leurs-screening-showcase)
 
 ## About my approach
 

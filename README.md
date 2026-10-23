@@ -1,19 +1,24 @@
-# Computational Drug Discovery and Bioinformatics
+# Kshitij Dubey
 
-I work on computational approaches to infectious disease research, including parasite genomics, molecular modeling, and structure based screening
+B.Sc. Chemistry student at **SRM Institute of Science and Technology (SRMIST)**, with a specialization in **Chemistry Data Science**. I’m exploring how chemistry, data, and biology can come together to answer research questions.
 
-## Areas of work
+I’m currently gaining informal exposure to research through regular participation in a research lab at my college. I don’t hold a formal lab appointment or research title. I’m curious across computational and experimental work, and open to learning the methods a question calls for.
 
-- Bioinformatics and target prioritization
-- Molecular docking and compound screening
-- Reproducible research workflows
-- Scientific writing
+## Research interests
 
-## Current projects
+- Computational drug discovery and molecular modeling
+- Bioinformatics and infectious disease research
+- Chemistry data science
+- Wet-lab methods and interdisciplinary research
 
-- *Brugia malayi* target prioritization and structure based screening
-- LeuRS inhibitor screening and cross species comparison
-- Kala-azar PTR1 structure and ligand analysis
-- Research writing on sentience and related topics
+## Selected project
 
-Project repositories are private while the work is in progress.
+### *Brugia malayi* aminoacyl-tRNA synthetase screening
+
+An in-silico screening project with a human LeuRS comparison. The public snapshot includes docking results across five random seeds, a preliminary consensus ranking, and docking settings. The findings are computational predictions and have not been experimentally validated.
+
+[View the project showcase](https://github.com/red3k/brugia-malayi-leurs-screening-showcase)
+
+## About my approach
+
+I enjoy exploring unfamiliar areas, connecting ideas across disciplines, and building practical skills as I go. I’m still finding my research direction and welcome opportunities to learn from both computational and experimental teams.

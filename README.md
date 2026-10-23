@@ -1,6 +1,6 @@
 # Computational Drug Discovery and Bioinformatics
 
-I work on computational approaches to infectious disease research, including parasite genomics, molecular modeling, and structure based screening.
+I work on computational approaches to infectious disease research, including parasite genomics, molecular modeling, and structure based screening
 
 ## Areas of work
 

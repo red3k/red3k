@@ -17,7 +17,7 @@ I’m currently gaining informal exposure to research through regular participat
 
 An independent computational study screened compound 6a against a curated set of *B. malayi* protein structures and prioritized mitochondrial ATP synthase subunit β as a candidate target. It includes a human ortholog comparison. These are computational predictions that require experimental validation.
 
-[Read the preprint](https://doi.org/10.21203/rs.3.rs-10383379/v1)
+[Read the preprint](https://doi.org/10.21203/rs.3.rs-10383379/v1) · [View the CV project summary](https://github.com/red3k/brugia-malayi-druggome-showcase)
 
 ### Aminoacyl-tRNA synthetase screening
 
